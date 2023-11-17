@@ -13,6 +13,48 @@
         android:theme="@style/Theme.TechStore_DuAn_Nhom8"
         tools:targetApi="31">
         <activity
+            android:name=".Activity.DoiMatKhau"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.ThayDoiThongTin"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.QuanLyTaiKhoan"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.ChiTietHoaDon"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.HoaDon"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.ThanhToan"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.ChiTietSanPham"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.GioHang"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.ListDongHo"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.ListMayTinh"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.ListDienThoai"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.Welcome"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.DangNhap"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.DangKi"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
