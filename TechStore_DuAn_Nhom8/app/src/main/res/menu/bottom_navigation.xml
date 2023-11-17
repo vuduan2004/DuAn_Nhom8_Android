@@ -4,7 +4,7 @@
     <item android:id="@+id/itHome"
         android:title="Home"
         app:showAsAction="ifRoom"
-        android:icon="@drawable/Trangchu"/>
+        android:icon="@drawable/trangchu"/>
     <item android:id="@+id/itStockOut"
         android:title="Giỏ Hàng"
         app:showAsAction="ifRoom"
