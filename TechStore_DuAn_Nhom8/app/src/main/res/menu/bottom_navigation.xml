@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/itHome"
+        android:title="Home"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/Trangchu"/>
+    <item android:id="@+id/itStockOut"
+        android:title="Giỏ Hàng"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/giohang"/>
+    <item android:id="@+id/itInventory"
+        android:title="Tài Khoản"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/taikhoan"/>
+
+</menu>
