@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "3127790308",
-    "project_id": "techstore-nhom8",
-    "storage_bucket": "techstore-nhom8.appspot.com"
+    "project_number": "615330447174",
+    "project_id": "teststore-1660c",
+    "storage_bucket": "teststore-1660c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:3127790308:android:6a4375de365f05c40ffaf1",
+        "mobilesdk_app_id": "1:615330447174:android:8c249b8ebfada5d23e6f47",
         "android_client_info": {
           "package_name": "duanvdph37524.fpoly.techstore_duan_nhom8"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBcHkGldDjLlUqRee6H-_UkC9I80zlKXUY"
+          "current_key": "AIzaSyB6pU2YoNuYE9by0zuGiUbqsmv8hggacU8"
         }
       ],
       "services": {
